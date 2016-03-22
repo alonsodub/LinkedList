@@ -62,15 +62,16 @@ int create(nodo* _nodo){
 	return 1; 
  }
 }
+/**
 int insert(nodo* _nodo,int i){
  int l = longtd(head);
  if (i <= l){
 	if(i == 0){
-	/** Insert in Head*/
+	/** Insert in Head
 	return 0;
 	}
 	if(i == l){
-	/** Insert in last*/
+	/** Insert in last
 	return 0;
 	}
 	while(i < l)	
@@ -81,6 +82,7 @@ int insert(nodo* _nodo,int i){
 
  return 0;
 }
+**/
 /**
 int remove(nodo* _nodo){
  return 0;
