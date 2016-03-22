@@ -1,2 +1,2 @@
 # LinkedList
-C Code for Data Structures 
+C Code for Linked List Data Structures 
